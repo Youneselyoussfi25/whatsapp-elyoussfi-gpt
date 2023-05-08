@@ -1,6 +1,6 @@
-const sessionName = "harshitethic";
-const donet = "https://harshitethic.in";
-const owner = ["918708056374"]; // Put your number here ex: ["91xxxxxxxxx"]
+const sessionName = "elyoussfi bot";
+const donet = "https://youtube.com/@elyoussfitic";
+const owner = ["212621913215"]; // Put your number here ex: ["212621913215"]
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
